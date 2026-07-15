@@ -52,8 +52,9 @@ with st.sidebar:
 
     api_key = st.text_input(
         "Groq API key",
-        value=os.environ.get("GROQ_API_KEY", ""),
+        value="",
         type="password",
+        placeholder="Paste your key here (or set in Streamlit secrets)",
         help="Free, no credit card required",
     )
     if api_key:
@@ -84,7 +85,7 @@ with st.sidebar:
 
     if st.button("Build / update index", type="primary", disabled=not uploaded_files):
         if not os.environ.get("GROQ_API_KEY"):
-            st.error("Please provide a Groq API key first.")
+            st.error("Please provide a Groq API key. Paste it above or set it in Streamlit secrets.")
         else:
             pipeline = get_pipeline()
             pipeline.top_k = top_k
