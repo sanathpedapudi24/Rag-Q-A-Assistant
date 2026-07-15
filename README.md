@@ -42,13 +42,21 @@ cp .env.example .env
 # edit .env and add your GROQ_API_KEY (free, no credit card — see below)
 ```
 
-### Getting a free Groq API key
+### Getting a free Groq API key (required)
 
-1. Go to [console.groq.com](https://console.groq.com) and sign up (email, Google, or GitHub — no card needed)
-2. Go to **API Keys** → **Create API Key**
-3. Copy the key into `.env` as `GROQ_API_KEY=gsk_...`
+The app uses [Groq](https://console.groq.com) to run the LLM — it's **100% free**, no credit card needed.
 
-The free tier is generous enough that you shouldn't hit limits during normal development or demoing.
+**Step-by-step:**
+
+1. Go to **[console.groq.com](https://console.groq.com)** and click **Sign Up**
+2. Sign in with **Google**, **GitHub**, or **email** (takes 10 seconds)
+3. Once logged in, click **API Keys** in the left sidebar
+4. Click **Create API Key** → give it a name (e.g. `rag-app`) → click **Create**
+5. **Copy** the key (starts with `gsk_...`) and paste it into one of:
+   - **Local**: edit `.env` and set `GROQ_API_KEY=gsk_...`
+   - **Live demo**: go to the app → paste it in the sidebar text box
+
+> The free tier gives you plenty of requests for development and demos. You'll never be asked for a credit card.
 
 ## Run the app
 
