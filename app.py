@@ -54,10 +54,25 @@ with st.sidebar:
         "Groq API key",
         value=os.environ.get("GROQ_API_KEY", ""),
         type="password",
-        help="Free, no credit card required — get one at console.groq.com. Or set GROQ_API_KEY in a .env file",
+        help="Free, no credit card required",
     )
     if api_key:
         os.environ["GROQ_API_KEY"] = api_key
+
+    with st.expander("🔑 How to get a free Groq API key"):
+        st.markdown("""
+        **1.** Go to **[console.groq.com](https://console.groq.com)** and click **Sign Up**
+        
+        **2.** Sign in with **Google**, **GitHub**, or **email** (takes 10 seconds)
+        
+        **3.** Click **API Keys** in the left sidebar
+        
+        **4.** Click **Create API Key** → give it a name → click **Create**
+        
+        **5.** Copy the key (starts with `gsk_...`) and paste it above
+        
+        > Free tier — no credit card required.
+        """)
 
     uploaded_files = st.file_uploader(
         "Upload documents",
