@@ -6,6 +6,10 @@ documents (PDF, DOCX, TXT, MD). Documents are chunked, embedded locally with
 to an LLM (via Groq's free API) to generate a grounded, cited answer. Includes
 a Streamlit UI and a retrieval-accuracy evaluation harness.
 
+## Live Demo
+
+**[Try it now](https://rag-qna-assistant.streamlit.app/)** — no setup required. Upload your docs and start asking questions.
+
 ## Architecture
 
 ```
