@@ -1,0 +1,15 @@
+Renewable Energy: An Overview
+
+Renewable energy comes from sources that replenish naturally and do not run out on a human timescale. The four most widely deployed forms are solar, wind, hydroelectric, and geothermal power.
+
+Solar power converts sunlight directly into electricity using photovoltaic cells, or indirectly by using mirrors to concentrate sunlight and generate heat that drives a turbine. Photovoltaic panels are made primarily of silicon and typically convert between 15 and 22 percent of the sunlight that hits them into usable electricity. Solar installations range from small rooftop arrays that power a single home to utility-scale farms covering thousands of acres.
+
+Wind power captures the kinetic energy of moving air using turbines mounted on tall towers. Modern utility-scale wind turbines have blades over 60 meters long and can generate several megawatts each. Wind farms are often built offshore, where winds are stronger and more consistent than on land, though offshore construction and maintenance costs are higher.
+
+Hydroelectric power generates electricity by channeling flowing or falling water through turbines. Large dams, such as the Three Gorges Dam in China, can generate over 20 gigawatts of power, making hydroelectric the largest source of renewable electricity worldwide by installed capacity. Smaller "run of river" hydro systems generate power without large reservoirs, reducing environmental disruption.
+
+Geothermal power taps heat from within the Earth, typically by drilling wells into underground reservoirs of steam or hot water. This heat drives turbines directly or is used to boil a secondary fluid. Geothermal plants provide highly consistent, round-the-clock power output, unlike solar and wind, which depend on weather and time of day.
+
+A major challenge for solar and wind power is intermittency: they only generate electricity when the sun shines or the wind blows. Grid operators address this using battery storage, pumped hydro storage, and a diversified mix of generation sources spread across different regions. Battery costs have fallen by more than 80 percent over the past decade, making storage increasingly viable at grid scale.
+
+As of the mid-2020s, renewables account for roughly 30 percent of global electricity generation, with solar and wind representing the fastest-growing segment of new capacity additions each year.

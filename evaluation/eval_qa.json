@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What percentage of sunlight do photovoltaic panels typically convert to electricity?",
+    "relevant_source": "renewable_energy.txt",
+    "expected_answer_contains": ["15", "22", "percent"]
+  },
+  {
+    "question": "Which dam can generate over 20 gigawatts of power?",
+    "relevant_source": "renewable_energy.txt",
+    "expected_answer_contains": ["Three Gorges"]
+  },
+  {
+    "question": "Why does geothermal power provide more consistent output than solar or wind?",
+    "relevant_source": "renewable_energy.txt",
+    "expected_answer_contains": ["weather", "time of day", "consistent"]
+  },
+  {
+    "question": "How much have battery storage costs fallen over the past decade?",
+    "relevant_source": "renewable_energy.txt",
+    "expected_answer_contains": ["80 percent"]
+  },
+  {
+    "question": "What roughly is the current share of global electricity generation coming from renewables?",
+    "relevant_source": "renewable_energy.txt",
+    "expected_answer_contains": ["30 percent"]
+  },
+  {
+    "question": "Who was the first human to orbit the Earth?",
+    "relevant_source": "space_exploration.txt",
+    "expected_answer_contains": ["Yuri Gagarin"]
+  },
+  {
+    "question": "Who piloted the Apollo 11 command module while Armstrong and Aldrin walked on the Moon?",
+    "relevant_source": "space_exploration.txt",
+    "expected_answer_contains": ["Michael Collins"]
+  },
+  {
+    "question": "When did Voyager 1 enter interstellar space?",
+    "relevant_source": "space_exploration.txt",
+    "expected_answer_contains": ["2012"]
+  },
+  {
+    "question": "What was significant about SpaceX's Crew Dragon mission in 2020?",
+    "relevant_source": "space_exploration.txt",
+    "expected_answer_contains": ["first commercially built", "International Space Station"]
+  },
+  {
+    "question": "What is the goal of NASA's Artemis program?",
+    "relevant_source": "space_exploration.txt",
+    "expected_answer_contains": ["Moon", "Mars"]
+  }
+]

@@ -1,0 +1,13 @@
+A Brief History of Space Exploration
+
+Human space exploration began in earnest during the Cold War, as the Soviet Union and the United States competed for technological supremacy. The Soviet Union launched Sputnik 1, the first artificial satellite, in October 1957, triggering what became known as the Space Race. Just over three years later, in April 1961, Soviet cosmonaut Yuri Gagarin became the first human to orbit the Earth aboard Vostok 1.
+
+The United States responded with the Apollo program, culminating in the Apollo 11 mission of July 1969, when astronauts Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon while Michael Collins orbited above in the command module. Six Apollo missions landed astronauts on the lunar surface between 1969 and 1972, returning hundreds of kilograms of Moon rock for scientific study.
+
+After the Moon landings, space exploration shifted toward long-duration missions in low Earth orbit. The Soviet Union launched the first space station, Salyut 1, in 1971, followed by the American Skylab in 1973. These early stations paved the way for the International Space Station, a collaboration between the United States, Russia, Europe, Japan, and Canada, which has been continuously occupied by rotating crews since November 2000.
+
+Robotic exploration expanded humanity's reach far beyond what crewed missions could achieve. The Voyager 1 and Voyager 2 probes, launched in 1977, conducted flybys of Jupiter, Saturn, Uranus, and Neptune before continuing outward; Voyager 1 became the first human-made object to enter interstellar space in 2012. Mars has been a particular focus of robotic exploration, with rovers including Sojourner, Spirit, Opportunity, Curiosity, and Perseverance studying the planet's geology and searching for signs of past microbial life.
+
+The 21st century has seen the rise of commercial spaceflight companies alongside government space agencies. SpaceX, founded in 2002, developed the Falcon 9, the first orbital-class rocket capable of routine first-stage reuse, dramatically lowering the cost of reaching orbit. In 2020, SpaceX's Crew Dragon capsule became the first commercially built and operated spacecraft to carry astronauts to the International Space Station.
+
+Looking forward, NASA's Artemis program aims to return astronauts to the lunar surface, with an eventual goal of establishing a sustained human presence on the Moon as a stepping stone toward crewed missions to Mars.
